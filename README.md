@@ -1,2 +1,3 @@
-# kkbooks
-kkbooks
+# kkstudio
+
+All rights reserved
